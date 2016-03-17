@@ -1,0 +1,182 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\GITHUB\8051\demo1\demo.uvproj
+Project File Date:  03/15/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling STARTUP.A51...
+compiling mainDemo.c...
+MAINDEMO.C(2): error C202: 'p0': undefined identifier
+MAINDEMO.C(18): error C202: 'port1': undefined identifier
+MAINDEMO.C(21): error C202: 'port2': undefined identifier
+MAINDEMO.C(24): error C202: 'port3': undefined identifier
+MAINDEMO.C(27): error C202: 'port4': undefined identifier
+MAINDEMO.C(30): error C202: 'port5': undefined identifier
+MAINDEMO.C(33): error C202: 'port6': undefined identifier
+MAINDEMO.C(36): error C202: 'port7': undefined identifier
+MAINDEMO.C(39): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(2): error C202: 'p0': undefined identifier
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(25): error C202: 'port1': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(2): error C202: 'p0': undefined identifier
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(25): error C202: 'port1': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(2): error C202: 'p0': undefined identifier
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(25): error C202: 'port1': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(2): error C202: 'p0': undefined identifier
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(25): error C202: 'port1': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(2): error C202: 'p0': undefined identifier
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(25): error C202: 'port1': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(2): error C142: 'SFR': invalid base address
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(25): error C202: 'port1': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+MAINDEMO.C(3): error C202: 'p0': undefined identifier
+MAINDEMO.C(4): error C202: 'p0': undefined identifier
+MAINDEMO.C(5): error C202: 'p0': undefined identifier
+MAINDEMO.C(6): error C202: 'p0': undefined identifier
+MAINDEMO.C(7): error C202: 'p0': undefined identifier
+MAINDEMO.C(8): error C202: 'p0': undefined identifier
+MAINDEMO.C(9): error C202: 'p0': undefined identifier
+MAINDEMO.C(28): error C202: 'port2': undefined identifier
+MAINDEMO.C(31): error C202: 'port3': undefined identifier
+MAINDEMO.C(34): error C202: 'port4': undefined identifier
+MAINDEMO.C(37): error C202: 'port5': undefined identifier
+MAINDEMO.C(40): error C202: 'port6': undefined identifier
+MAINDEMO.C(43): error C202: 'port7': undefined identifier
+MAINDEMO.C(46): error C202: 'port8': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling mainDemo.c...
+linking...
+Program Size: data=11.0 xdata=0 code=288
+creating hex file from "demo"...
+"demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling mainDemo.c...
+linking...
+Program Size: data=11.0 xdata=0 code=157
+creating hex file from "demo"...
+"demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: data=11.0 xdata=0 code=157
+creating hex file from "demo"...
+"demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling mainDemo.c...
+linking...
+Program Size: data=11.0 xdata=0 code=157
+creating hex file from "demo"...
+"demo" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling mainDemo.c...
+linking...
+Program Size: data=11.0 xdata=0 code=173
+creating hex file from "demo"...
+"demo" - 0 Error(s), 0 Warning(s).

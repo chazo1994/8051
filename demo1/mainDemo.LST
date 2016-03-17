@@ -1,0 +1,88 @@
+C51 COMPILER V9.01   MAINDEMO                                                              03/15/2016 23:53:37 PAGE 1   
+
+
+C51 COMPILER V9.01, COMPILATION OF MODULE MAINDEMO
+OBJECT MODULE PLACED IN mainDemo.OBJ
+COMPILER INVOKED BY: C:\Keil\C51\BIN\C51.EXE mainDemo.c BROWSE DEBUG OBJECTEXTEND
+
+line level    source
+
+   1          #include <REGX52.H>
+   2          sbit port1 = P0^0 ;
+   3          sbit port2 = P0^1 ;
+   4          sbit port3 = P0^2 ;
+   5          sbit port4 = P0^3 ;
+   6          sbit port5 = P0^4 ;
+   7          sbit port6 = P0^5 ;
+   8          sbit port7 = P0^6 ;
+   9          sbit port8 = P0^7 ;
+  10          void delay_ms(int count)
+  11          {
+  12   1              int i,j;
+  13   1              for(i=0;i<count;i++)
+  14   1              {
+  15   2                      for(j=0;j<123;j++); // delay 1 ms
+  16   2              }
+  17   1      }
+  18          void main()
+  19          {
+  20   1              int i = 0;
+  21   1              port1 = 0;
+  22   1              port2 = 0;
+  23   1              port3 = 0;
+  24   1              port4 = 0;
+  25   1              port5 = 0;
+  26   1              port6 = 0;
+  27   1              port7 = 0;
+  28   1              port8 = 0;
+  29   1      
+  30   1              while(1)
+  31   1              {         switch(i)
+  32   2                              {
+  33   3                                      case 0:
+  34   3                                              port1 = !port1;
+  35   3                                              break;
+  36   3                                      case 1:
+  37   3                                              port2 = !port2;
+  38   3                                              break;
+  39   3                                      case 2:
+  40   3                                              port3= !port3;
+  41   3                                              break;
+  42   3                                      case 3:
+  43   3                                              port4 = !port4;
+  44   3                                              break;
+  45   3                                      case 4:
+  46   3                                              port5 = !port5;
+  47   3                                              break;
+  48   3                                      case 5:
+  49   3                                              port6 = !port6;
+  50   3                                              break;
+  51   3                                      case 6:
+  52   3                                              port7 = !port7;
+  53   3                                              break;
+  54   3                                      case 7:
+  55   3                                              port8 = !port8;
+C51 COMPILER V9.01   MAINDEMO                                                              03/15/2016 23:53:37 PAGE 2   
+
+  56   3                                              break;
+  57   3                              }
+  58   2                      delay_ms(500);
+  59   2                      i++;
+  60   2                      if(i==8)
+  61   2                              i = 0;
+  62   2              }
+  63   1      }
+
+
+MODULE INFORMATION:   STATIC OVERLAYABLE
+   CODE SIZE        =    158    ----
+   CONSTANT SIZE    =   ----    ----
+   XDATA SIZE       =   ----    ----
+   PDATA SIZE       =   ----    ----
+   DATA SIZE        =   ----       2
+   IDATA SIZE       =   ----    ----
+   BIT SIZE         =   ----    ----
+END OF MODULE INFORMATION.
+
+
+C51 COMPILATION COMPLETE.  0 WARNING(S),  0 ERROR(S)
